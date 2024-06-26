@@ -1,0 +1,23 @@
+
+
+# GameCenterLeaderboardSetMemberLocalizationUpdateRequestData
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**type** | [**TypeEnum**](#TypeEnum) |  |  |
+|**id** | **String** |  |  |
+|**attributes** | [**BundleIdUpdateRequestDataAttributes**](BundleIdUpdateRequestDataAttributes.md) |  |  [optional] |
+
+
+
+## Enum: TypeEnum
+
+| Name | Value |
+|---- | -----|
+| GAMECENTERLEADERBOARDSETMEMBERLOCALIZATIONS | &quot;gameCenterLeaderboardSetMemberLocalizations&quot; |
+
+
+
